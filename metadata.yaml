@@ -1,11 +1,16 @@
 _repo: Peggy-on-the-Road-Peggy-Lane-Theater-Stories-4_55830
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55830-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Virginia
     gutenberg_agent_id: '48533'
     url: http://www.gutenberg.org/2009/agents/48533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55830#Peggy-on-the-Road-Peggy-Lane-Theater-Stories-4
 gutenberg_issued: '2017-10-27'
 gutenberg_type: Text
 identifiers:
